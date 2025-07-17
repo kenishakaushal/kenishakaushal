@@ -1,8 +1,6 @@
 # Hi there! 👋 I'm Kenisha Kaushal
 
-## 🚀 About Me
-
-I'm a **Computer Science (Software Engineering) major** with a **Data Science minor** at ASU. Passionate about the intersection of **technology and creativity**, I work on projects that blend **AI, AR, and software development** to create impactful solutions.
+I'm a **Computer Science (Software Engineering) major** with a **Data Science minor** at ASU. Passionate about turning ideas into cool, real-world projects, I’m all about making technology feel alive and meaningful.
 
 ## 📫 Let's Connect!
 
